@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          -- Devoteam v 1.0
+          -- Devoteam v 1.1
         </a>
       </header>
     </div>
