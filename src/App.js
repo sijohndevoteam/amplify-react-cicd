@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-		Sijohn ❤️ React In Demo
+		Sayduck Amplify App With Branching Demo !!!
         </p>
         <a
           className="App-link"
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          -- Sijohn Mathew 13.22
+          -- Devoteam v 1.0
         </a>
       </header>
     </div>
