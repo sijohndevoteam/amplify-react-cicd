@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-			Sayduck Demo Master Brach
+			Sayduck Demo Release 2
         </p>
         <a
           className="App-link"
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          -- Devoteam 1.0
+          -- Devoteam 2.0
         </a>
       </header>
     </div>
